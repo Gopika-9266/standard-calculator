@@ -111,6 +111,9 @@ Calc.html
 ## SERVER OUTPUT:
 ![Screenshot (139)](https://github.com/Gopika-9266/standard-calculator/assets/122762773/96b2585c-17c5-4f71-9da2-8d55f926f473)
 
+## HTML VALIDATOR:
+![Screenshot (142)](https://github.com/Gopika-9266/standard-calculator/assets/122762773/fcaf4513-f6c5-4352-8ee7-52493cbe529d)
+
 
 ## Result:
 The program for creating a simple calculator using javascript is executed successfully.
